@@ -1,0 +1,9 @@
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\bin\Debug\netcoreapp3.1\ImageGramDB.deps.json
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\bin\Debug\netcoreapp3.1\ImageGramDB.dll
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\bin\Debug\netcoreapp3.1\ImageGramDB.pdb
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.AssemblyInfoInputs.cache
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.AssemblyInfo.cs
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.dll
+C:\Users\Zohaib.Ahmed\source\repos\Imagegram\ImageGramDB\obj\Debug\netcoreapp3.1\ImageGramDB.pdb
